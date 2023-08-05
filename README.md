@@ -23,7 +23,7 @@ You can use original bot
 For invite original bot, [Click to invite](https://discord.com/api/oauth2/authorize?client_id=1135640207828451329&permissions=0&scope=bot%20applications.commands)
 
 # Python modules
-`disnake, acyncio, os`
+`disnake, acyncio, os, flask, time, requests`
 ## Local modules
 `web, constants`
 
