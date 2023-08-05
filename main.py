@@ -290,17 +290,6 @@ async def list(ctx):
     embed = disnake.Embed(title=tit, description="**WARNING: THIS FEATURE IN ACTIVE DEVELOPMENT!!!!!**", color=disnake.Color.blue())
     await ctx.send(embed=embed)
     
-
-@bot.command()
-async def get_value(ctx):
-    value = server_lang.get(ctx.guild.id, "Значение не установлено")
-    await ctx.send(f"Текущее значение для этого сервера: {value}.")
-    
-
-
-
-
-
 # ===== HELP ===== #
 @bot.command()
 async def help(ctx):
