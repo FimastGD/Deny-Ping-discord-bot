@@ -5,9 +5,11 @@ Deny Ping bot for discord
 Tired of pings? You can block access so you don't get pinged
 
 # Setup
-You must go to `constants.py` and replace ```py
+You must go to `constants.py` and replace:
+```py
 TOKEN = "YOURTOKEN"
-ERROR_EMOJI = "Error emoji ID"```
+ERROR_EMOJI = "Error emoji ID"
+```
 
 # Run
 Start main.py on your PC
