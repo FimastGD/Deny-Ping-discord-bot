@@ -20,9 +20,7 @@ You can host this bot on your device, bot hostings and **VDS/VPS** servers. It's
 # Original bot
 You can use original bot
 ## Invite link
-For invite original bot, [Click to invite](https://discord.com/api/oauth2
-/authorize?client_id=1135640207828451329
-&permissions=0&scope=bot%20applications.commands)
+For invite original bot, [Click to invite](https://discord.com/api/oauth2/authorize?client_id=1135640207828451329&permissions=0&scope=bot%20applications.commands)
 
 # Python modules
 `disnake, acyncio, os`
